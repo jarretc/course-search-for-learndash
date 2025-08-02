@@ -2,7 +2,7 @@
 /**
     * Plugin Name: Course Search for LearnDash
     * Description: Shortcode to search all or currently enrolled courses in LearnDash.
-    * Version: 1.0
+    * Version: 1.0.1
     * Author: Jarret Cade
     * Author URI: https://orangedotdevelopment.com
     * Plugin URI: https://orangedotdevelopment.com/software/wordpress/plugins/course-search-for-learndash/

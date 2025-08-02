@@ -1,5 +1,7 @@
 # Course Search for LearnDash
 
+![Course Search for LearnDash](https://orangedotdevelopment.com/wp-content/uploads/2025/08/Screenshot-2025-08-02-151047.png)
+
 Shortcode to search all or currently enrolled courses in LearnDash.
 
 Shortcode: `[ld_course_search]`
